@@ -1,5 +1,5 @@
 import yaml
-from sdk import CredIssuerSDK  # Assuming your SDK is saved in `sdk.py`
+from issuer import CredIssuerSDK  # Assuming your SDK is saved in `issuer.py`
 
 def load_config_from_yaml(file_path):
     """
