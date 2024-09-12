@@ -1,0 +1,10 @@
+base_url: "https://app.credissuer.com"
+email: "testplaywright13@gmail.com"
+password: "Password@123"
+csrf_token: "Da1J0MrehnX40T9aqeRiSe86uvZS1bz9KXNXsD8dgaFWup1RoKy3nkjguEtLKJ9w"
+credential_template: "BD9FC1CE465F"
+recipient_info:
+  data:
+    recipient_first_name: "Gowtham"
+    recipient_last_name: "Panyam"
+    recipient_email: "gowtham09.panyam@gmail.com"
